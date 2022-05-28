@@ -1,10 +1,12 @@
 This is the Front End Of PneumoCheck.
-1.Download this folder.
-2.In the root directory, create a .env.local file
-3.In the .env.local file, add the following:
+
+1.In the root directory, create a .env.local file
+2.In the .env.local file, add the following:
+
 NEXT_PUBLIC_API=/api
 API=http://localhost:8000/api
 SKIP_PREFLIGHT_CHECK=true\
-4.Run the command "npm install" in your terminal from the root
-5.Then run the command "npm run dev" in the terminal from the root.
+
+3.Run the command "npm install" in your terminal from the root
+4.Then run the command "npm run dev" in the terminal from the root.
 
