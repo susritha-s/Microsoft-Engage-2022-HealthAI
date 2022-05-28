@@ -22,6 +22,8 @@ Steps To Run this Application:-
 In today's busy world, people neglect their symptoms and do not get them diagnosed due to lack of time. This can lead to health complications, as early detection is the key.</br>
 HealthAI is a solution to all these problems , as it is Free, Simple, Accurate and Quick.
 
+# Tech Stack Used 
+HTML ,CSS , Javascript, Python, Node.js, Express.js, MongoDB , React.js
 
 # FutureScope
 
