@@ -1,5 +1,6 @@
 # Microsoft-Engage-2022-HealthAI
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# How To run This Application?
 This entire web application can be split into 3 parts.
  1. The Landing Page
  2. PneumoCheck
