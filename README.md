@@ -14,9 +14,19 @@ Steps To Run this Application:-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # HealthAI- A disease diagnosis Web Application
-Health AI is a web application where one can detect Pneumonia,Diabetes,Heart Disease and Parkinsons. 
+
 
 ![canva1](https://user-images.githubusercontent.com/88028321/170833693-e67176ac-8687-44eb-b252-916e5b29e4d4.png)
+
+In today's busy world, people neglect their symptoms and do not get them diagnosed due to lack of time. This can lead to health complications, as early detection is the key.</br>
+HealthAI is a solution to all these problems , as it is Free, Simple, Accurate and Quick.
+
+
+# FutureScope
+
+In further iterations, I plan to add more and more diseases to the list and make it a one stop destination for diagnosis.
+
+
 
 
 
