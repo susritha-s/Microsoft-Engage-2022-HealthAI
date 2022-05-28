@@ -6,10 +6,10 @@ This entire web application can be split into 3 parts.
  3. Multiple Disease Prediction System
 
 Steps To Run this Application:-
-1.Download This Repository.
-2.Go To The PneumonCheck Folder(Both Frontend and Backend) And follow the instructions in the given ReadMe File over there.
-3.Go To The Multiple Disease Prediction System Folder and follow the instructions in the given readme file ovre there.
-4.Finally, Go the Landing Page Folder and open the index.html file.
+1.Download This Repository.<br/>
+2.Go To The PneumonCheck Folder(Both Frontend and Backend) And follow the instructions in the given ReadMe File over there.<br/>
+3.Go To The Multiple Disease Prediction System Folder and follow the instructions in the given readme file ovre there.<br/>
+4.Finally, Go the Landing Page Folder and open the index.html file.<br/>
 
 --->PneumoCheck and Multiple Disease Prediction System have been built seperately, they have been linked together with the landing page.
 
