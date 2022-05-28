@@ -17,10 +17,15 @@ Steps To Run this Application:-
 # HealthAI- A disease diagnosis Web Application
 
 
-![canva1](https://user-images.githubusercontent.com/88028321/170833693-e67176ac-8687-44eb-b252-916e5b29e4d4.png)
+![canva1](https://user-images.githubusercontent.com/88028321/170833693-e67176ac-8687-44eb-b252-916e5b29e4d4.png)[Microsoft Engage 2022.docx](
 
 In today's busy world, people neglect their symptoms and do not get them diagnosed due to lack of time. This can lead to health complications, as early detection is the key.</br>
 HealthAI is a solution to all these problems , as it is Free, Simple, Accurate and Quick.
+
+# Time Line followed for Engage 2022
+https://github.com/susritha-s/Microsoft-Engage-2022-HealthAI/files/8791743/Microsoft.Engage.2022.docx)
+
+
 
 # Tech Stack Used 
 HTML ,CSS , Javascript, Python, Node.js, Express.js, MongoDB , React.js
