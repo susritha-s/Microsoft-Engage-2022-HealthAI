@@ -1,0 +1,8 @@
+The following packages are required to run this folder:
+1. streamlit
+2.pickle
+
+1. Downlaod this folder.
+2. Navigate to this folder in terminal.
+3.Run the command "  streamlit run "multiple disease pred.py"   "
+4. It will run on the default port localhost:8501
