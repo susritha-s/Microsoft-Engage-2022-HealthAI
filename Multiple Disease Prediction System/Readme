@@ -1,7 +1,13 @@
 The following packages are required to run this folder:
-1. streamlit
+1.streamlit
+  pip install streamlit
 2.pickle
+  pip install pickle5 
+3.streamlit options menu
+  pip install streamlit-option-menu
 
+How To Run?
 1. Navigate to this folder in terminal.
-2.Run the command : streamlit run "multiple disease pred.py"   
+2.Run the command:
+ streamlit run "multiple disease pred.py"   
 3. It should run on the default port local host:8501
